@@ -10,7 +10,7 @@ function stop_app {
 }
 
 function status_app {
-    curl localhost:8080
+    curl localhost:8081
 }
 
 PS3='Please enter your choice: '
